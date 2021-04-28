@@ -21,6 +21,7 @@
         "flowpack/nodetemplates": "^1.3",
         "shel/neos-hyphens": "^1.0",
         "sitegeist/lazybones": "^3.0",
+        "sandstorm/neosacl": "*",
 
         "neos/nodetypes-contentreferences": "*"
     },
